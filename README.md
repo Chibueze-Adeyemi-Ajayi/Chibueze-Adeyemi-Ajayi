@@ -1,12 +1,1 @@
-# Hi... I'm chibueze, #@jilodeveloper on twitter.
-
-- Fullstack web2 and web3 developer, proficient in JavaScript, Php, & Solidity.
-- I'm building the future of African fashion marketplace *"Ankara"* 
-- Enjoy my repository - do well to follow and drop a star, love you 
-
-# *Welcome to the future*
-
-<!---
-Chibueze-Adeyemi-Ajayi/Chibueze-Adeyemi-Ajayi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Professional software developer, having great expertise in building software solutions like: APIs, cross-platform or native mobile or web applications, using cutting edge infrastructures like: Azure, AWS, GitHub, Heroku, Apache, Tomcat, GIT, Docker, Kubernetes and so on – adopting all standardized DevOps practices. My level of expertise is of no doubt, as I have and by experience (4 years) worked in agile environments building sophisticated microservice architectures, monolithic architectures, RESTful architectures, SPAs, and lots more.
