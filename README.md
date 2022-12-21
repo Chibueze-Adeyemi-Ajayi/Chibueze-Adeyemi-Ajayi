@@ -1,4 +1,5 @@
-#Jilo Developer#
+# Jilo Developer
+
 Professional software developer, having great expertise in building software solutions like: **APIs**, **cross-platform** or **native mobile** or **web applications**, using cutting edge infrastructures like: 
 - Azure 
 - AWS
