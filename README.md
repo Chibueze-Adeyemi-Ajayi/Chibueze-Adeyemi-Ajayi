@@ -12,7 +12,7 @@ and Typescript.
 - Backend development using PHP(Larvel), Node.JS, Java(Spring)
 - Mobile developemnt using Flutter(IOS & Android platforms), Java/Kotlin(Native android)
 
-Relevant technologies like: Consuming APIs, GitOps, Dpcker, CI/CD, Kubernetes, Database 
+Relevant technologies like: Consuming APIs, GitOps, Docker, CI/CD, Kubernetes, Database 
 Management tools (SQL, or NoSQL based)
 
 My strength is actually my ability to understand what the whole team wants. Therefore,
@@ -21,6 +21,8 @@ I assure you I am competent as a software engineer.
 I am optimistic on giving a high and positive Return On Investment for your service which I
 certainly know is your focus.
 
+
 Thank you.
+
 https://jiloo.netlify.app/
 
